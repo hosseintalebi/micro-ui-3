@@ -1,4 +1,4 @@
 export function App() {
-  const id = 1;
+  const id = 2;
   return `Welcome to micro UI ${id}!`;
 }
